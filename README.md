@@ -1,4 +1,4 @@
-COVID-19 Vaccine Database Management System
+#COVID-19 Vaccine Database Management System
 
 This project is designed to store, manage, and update information related to COVID-19 vaccinations. It provides a simple and efficient way to track user details, including their vaccination status, in a MySQL database.
 
