@@ -2,12 +2,12 @@
 
 A system to store and manage COVID-19 vaccination details using MySQL.
 
-Features
+Features/n
 CRUD Operations: Add, update, delete, and view user records.
 Data Stored: User ID, Name, Age, Vaccine Name, Dose, and Status.
 MySQL Database: Reliable storage and management of user data.
 
-Technologies
+Technologies/n
 Backend: Python (Flask)
 Database: MySQL
 
